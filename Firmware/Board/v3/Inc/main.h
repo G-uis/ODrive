@@ -67,7 +67,7 @@
 
 /* Private define ------------------------------------------------------------*/
 #define TIM_1_8_CLOCK_HZ 168000000
-#define TIM_1_8_PERIOD_CLOCKS 3500
+#define TIM_1_8_PERIOD_CLOCKS 1750
 #define TIM_1_8_DEADTIME_CLOCKS 20
 #define TIM_APB1_CLOCK_HZ 84000000
 #define TIM_APB1_PERIOD_CLOCKS 4096
